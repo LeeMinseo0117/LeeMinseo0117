@@ -11,9 +11,6 @@
 ## Hello World!! 🤔
 
 
-<img align="right" alt="코딩" width="220" src="https://github.com/user-attachments/assets/eb7ea291-99db-4225-b84b-2d597dd20370" />
-
-
 • 📝 1주 1블로그 진행중 - 작은 진전이라도 기록하고 있습니다.  
 <br />
 <br />
