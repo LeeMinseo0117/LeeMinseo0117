@@ -2,7 +2,7 @@
 
 <img width="200" src="https://img.shields.io/badge/Gmail-dlalstj3164@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-저는 꾸준함의 가치를 믿습니다.<br />작은 진전이라도 매일 이루어내면, 그것이 모여 큰 성과가 됩니다.<br /><br /><i><strong>아무것도 아닌 일을 꾸준히 하다보면 취미가 되고, 일이 되며, 나의 적성이 된다.</strong></i><br />
+저는 꾸준함의 가치를 믿습니다.<br />작은 진전이라도 매일 이루어내면, 그것이 모여 큰 성과가 됩니다.<br /><br /><i><strong>아무것도 아닌 일을 꾸준히 하다보면 취미가 되고, 일이 되며, 나의 적성이 된다.</strong></i><br />
 
 <br />
 <br />
