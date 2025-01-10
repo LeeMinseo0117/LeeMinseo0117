@@ -36,5 +36,3 @@
 <!-- BLOG-POST-LIST:START -->
 - [기록하며 성장하는 프론트엔드 기술](https://velog.io/@mimim/posts) 
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more articles...](https://disquiet.io/@zztkdfo/articles)
